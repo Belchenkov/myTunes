@@ -39,6 +39,11 @@ a {
     font-size: 2rem;
 }
 
+section#entertainment {
+    background: url('../img/section-bg.jpg') no-repeat bottom/cover fixed;
+    padding: 10rem 0;
+}
+
 /* Text Colors */
 .text-primary {
     color: var(--primary-color);
